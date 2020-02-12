@@ -1,4 +1,5 @@
-thesis-gnuplottex-fig1.gnuplot
+thesis-gnuplottex*
+thesis.gnuploterrors
 thesis.aux
 thesis.bbl
 thesis.bcf
@@ -11,4 +12,11 @@ thesis.out
 thesis.pdf
 thesis.run.xml
 thesis.toc
+thesis.acn
+thesis.glo
+thesis.ist
+thesis.acr
+thesis.alg
+thesis.glg
+thesis.gls
 *~
